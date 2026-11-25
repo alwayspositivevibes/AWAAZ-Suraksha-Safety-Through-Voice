@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="icons/icon-512.png" alt="AWAAZ Suraksha Shield" width="120" height="120">
-
-# AWAAZ Suraksha
+# 🛡️ AWAAZ Suraksha
 ### आवाज़ सुरक्षा
 
 **Voice-first emergency safety app for women in India.**
